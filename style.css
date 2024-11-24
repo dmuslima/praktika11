@@ -1,0 +1,22 @@
+.glavniy{
+    color: yellow;
+    text-align: center;
+}
+body{
+    background-color: rgb(0, 0, 82);
+}
+p{
+    color: white;text-align: center;
+}
+.span{
+    color: rgb(34, 168, 34);
+}
+.img{border: 5px solid yellow;
+    
+}
+td{
+    width: 500px;
+}
+input{
+    border-radius: 10px; width: 1600px; height: 40px;
+}
